@@ -2,26 +2,24 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
-        <h2>Your app description page.</h2>
+        <h1>Integrantes</h1>
     </hgroup>
 
     <article>
         <p>        
-            Use this area to provide additional information.
-        </p>
+            &nbsp;Kevin Aragon</p>
 
         <p>        
-            Use this area to provide additional information.
-        </p>
+            Karina Barrios</p>
 
         <p>        
-            Use this area to provide additional information.
-        </p>
+            Magli biverlin</p>
+        <p>        
+            Jose Oxcal</p>
     </article>
 
     <aside>
-        <h3>Aside Title</h3>
+        <h3>Menu</h3>
         <p>        
             Use this area to provide additional information.
         </p>
